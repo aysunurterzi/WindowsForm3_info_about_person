@@ -32,6 +32,7 @@ namespace WindowsFormlarıcalısma2
                 cinsiyet = radioButton2.Text;
             }
 
+
             if (radioButton3.Checked == true)
 
                 mezuniyet = radioButton3.Text;
